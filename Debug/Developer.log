@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\user\source\repos\developer\developer\employer.h(15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\developer\developer\employer.h(16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\developer\developer\source.cpp(65): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода...
+  Компиляция...
+  Employer.cpp
+c:\users\user\source\repos\developer\developer\employer.h(15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\developer\developer\employer.h(16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Developer.vcxproj -> C:\Users\user\source\repos\Developer\Debug\Developer.exe
